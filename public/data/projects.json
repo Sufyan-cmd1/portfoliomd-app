@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "seed-1",
+    "title": "Minimalist Apex Monogram & Identity",
+    "category": "Logo Design",
+    "description": "I designed this strategic geometric brand identity combining timeless negative space with precise typographic hierarchy for a contemporary architectural and luxury lifestyle studio.",
+    "image": "https://res.cloudinary.com/yfcvzvme/image/upload/v1785159539/logo-bg_sb1hif.png",
+    "createdAt": "2026-02-15"
+  },
+  {
+    "_id": "seed-2",
+    "title": "Botanical Heritage Watercolor Emblem",
+    "category": "watercolor Logo Design",
+    "description": "I hand-painted and digitized this organic watercolor emblem paired with custom serif lettering for an artisanal sustainable tea and botanical skincare apothecary.",
+    "image": "https://res.cloudinary.com/yfcvzvme/image/upload/v1785159544/watercolor-logo-bg_brqt6c.png",
+    "createdAt": "2026-02-08"
+  },
+  {
+    "_id": "seed-3",
+    "title": "Cyber Fox Cyberpunk Esports Mascot",
+    "category": "Mascot",
+    "description": "I illustrated this dynamic vector esports mascot featuring razor-sharp angles, high-contrast cel shading, and energetic character expression for a competitive gaming organization.",
+    "image": "https://res.cloudinary.com/yfcvzvme/image/upload/v1785159540/mascot-bg_fcjldp.png",
+    "createdAt": "2026-01-28"
+  },
+  {
+    "_id": "seed-4",
+    "title": "Nordic Jazz & Arts Festival Poster",
+    "category": "Poster",
+    "description": "I created this Swiss-style typographic poster exploring rhythm, asymmetrical balance, and atmospheric duotone gradients for an international cultural exposition.",
+    "image": "https://res.cloudinary.com/yfcvzvme/image/upload/v1785159536/posters-bg_z9ws7k.png",
+    "createdAt": "2026-01-19"
+  },
+  {
+    "_id": "seed-5",
+    "title": "Narrative Editorial Series: Solitude",
+    "category": "Illustration",
+    "description": "I crafted this atmospheric digital vector editorial series celebrating human connection and contemplative storytelling through tactile textures and earthy palettes.",
+    "image": "https://res.cloudinary.com/yfcvzvme/image/upload/v1785159547/illustration-bg_z8rush.png",
+    "createdAt": "2026-01-10"
+  },
+  {
+    "_id": "seed-6",
+    "title": "Social Campaign: Sustainable Tomorrow",
+    "category": "Post",
+    "description": "I conceptualized and designed this high-converting social media visual campaign for eco-conscious brand awareness, pairing bespoke typography with modular grid systems.",
+    "image": "https://res.cloudinary.com/yfcvzvme/image/upload/v1785159537/post-bg_ak1zbt.png",
+    "createdAt": "2025-12-22"
+  },
+  {
+    "_id": "seed-7",
+    "title": "Vanguard Coffee Roasters Visual Identity",
+    "category": "Logo Design",
+    "description": "I developed this artisanal coffee roaster identity balancing vintage stamp heritage with sleek modern minimalist line art and custom letterforms.",
+    "image": "https://res.cloudinary.com/yfcvzvme/image/upload/v1785159538/q_innor8.jpg",
+    "createdAt": "2025-12-05"
+  },
+  {
+    "_id": "seed-8",
+    "title": "Golden Guardian Mythical Beast Mascot",
+    "category": "Mascot",
+    "description": "I sculpted and illustrated this intricate mythological mascot identity blending lion and griffin anatomy with custom crest framing for a premier collegiate academy.",
+    "image": "https://res.cloudinary.com/yfcvzvme/image/upload/v1785159540/mascot-bg_fcjldp.png",
+    "createdAt": "2025-11-18"
+  }
+]
